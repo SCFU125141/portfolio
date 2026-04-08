@@ -11,3 +11,7 @@
 .profile:hover {
   transform: scale(1.1) rotate(2deg);
 }
+#home {
+  background: linear-gradient(to right, #caf0f8, #ade8f4);
+  padding: 60px;
+}
